@@ -16,11 +16,9 @@ A simple **Password Generator** built using  **HTML, CSS, and JavaScript** . Thi
 
 ✅ Copy generated password to clipboard with one click
 
-✅ Lightweight and easy to use
-
 ---
 
-## 📸 Demo
+## 📸 [Live Demo](https://password-generator-blond-gamma.vercel.app/)
 
 ![1742276636978](image/README/1742276636978.png)
 
@@ -63,11 +61,11 @@ A simple **Password Generator** built using  **HTML, CSS, and JavaScript** . Thi
 
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/AzaanSuhail/Password-Generator.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd 
+   cd Password-Generator
    ```
 3. Open `index.html` in your browser.
 
